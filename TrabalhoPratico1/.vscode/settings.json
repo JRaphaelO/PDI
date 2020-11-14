@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.dataScience.jupyterServerURI": "https://prod.liveshare.vsengsaas.visualstudio.com/join?09969EE89FFB50AA87F3FEC50BAD7189A196"
+=======
+    "jupyter.jupyterServerType": "local"
+>>>>>>> b12f1676cdb3d81d25fb8228dbcb8f0a487f1bbf
 }
